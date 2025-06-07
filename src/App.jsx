@@ -104,4 +104,9 @@ function App() {
   );
 }
 
-export default App;
+// export default App;
+ return <h1>Hello World</h1>
+ function Header() {
+  return <h1>Hello World</h1>;
+}
+export default Header;

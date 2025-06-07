@@ -1,5 +1,5 @@
 import React from "react";
-import go from "../assets/images/go.jpg";
+import mit from "../assets/images/Wanchai.png";
 const FeaturedBox = () => {
   return (
     <section className="featured-box" id="home">
